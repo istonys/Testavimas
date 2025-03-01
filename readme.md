@@ -7,3 +7,5 @@ https://github.com/gothinkster/aspnetcore-realworld-example-app
 Projektas turi ne vieną controllerį, servisus, padaro jį puikiu šablonu rašyti unit testus.
 
 Testus galima rasti "tests" folderyje.
+
+Testai rašyti naudojantis xUnit ir Moq.
