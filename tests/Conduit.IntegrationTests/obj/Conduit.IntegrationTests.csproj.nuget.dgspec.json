@@ -1,0 +1,263 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ignas\\Desktop\\Testavimas\\tests\\Conduit.IntegrationTests\\Conduit.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ignas\\Desktop\\Testavimas\\src\\Conduit\\Conduit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ignas\\Desktop\\Testavimas\\src\\Conduit\\Conduit.csproj",
+        "projectName": "Conduit",
+        "projectPath": "C:\\Users\\Ignas\\Desktop\\Testavimas\\src\\Conduit\\Conduit.csproj",
+        "packagesPath": "C:\\Users\\Ignas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ignas\\Desktop\\Testavimas\\src\\Conduit\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\Ignas\\Desktop\\Testavimas\\NuGet.Config",
+          "C:\\Users\\Ignas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreLockProperties": {
+          "restorePackagesWithLockFile": "true"
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )",
+              "versionCentrallyManaged": true
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[5.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "AutoMapper": "13.0.1",
+            "Bullseye": "5.0.0",
+            "coverlet.collector": "6.0.0",
+            "FluentValidation.AspNetCore": "11.3.0",
+            "Glob": "1.1.9",
+            "MediatR": "12.2.0",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.4",
+            "Microsoft.EntityFrameworkCore.InMemory": "8.0.4",
+            "Microsoft.EntityFrameworkCore.Sqlite": "8.0.4",
+            "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4",
+            "Microsoft.NET.Test.Sdk": "17.9.0",
+            "Moq": "4.18.4",
+            "Serilog": "3.1.1",
+            "Serilog.Extensions.Logging": "8.0.0",
+            "Serilog.Sinks.Console": "5.0.1",
+            "SimpleExec": "12.0.0",
+            "Swashbuckle.AspNetCore": "6.5.0",
+            "xunit": "2.4.2",
+            "xunit.runner.visualstudio": "2.5.7"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ignas\\Desktop\\Testavimas\\tests\\Conduit.IntegrationTests\\Conduit.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ignas\\Desktop\\Testavimas\\tests\\Conduit.IntegrationTests\\Conduit.IntegrationTests.csproj",
+        "projectName": "Conduit.IntegrationTests",
+        "projectPath": "C:\\Users\\Ignas\\Desktop\\Testavimas\\tests\\Conduit.IntegrationTests\\Conduit.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\Ignas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ignas\\Desktop\\Testavimas\\tests\\Conduit.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\Ignas\\Desktop\\Testavimas\\NuGet.Config",
+          "C:\\Users\\Ignas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Ignas\\Desktop\\Testavimas\\src\\Conduit\\Conduit.csproj": {
+                "projectPath": "C:\\Users\\Ignas\\Desktop\\Testavimas\\src\\Conduit\\Conduit.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreLockProperties": {
+          "restorePackagesWithLockFile": "true"
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )",
+              "versionCentrallyManaged": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )",
+              "versionCentrallyManaged": true
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.7, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "AutoMapper": "13.0.1",
+            "Bullseye": "5.0.0",
+            "coverlet.collector": "6.0.0",
+            "FluentValidation.AspNetCore": "11.3.0",
+            "Glob": "1.1.9",
+            "MediatR": "12.2.0",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.4",
+            "Microsoft.EntityFrameworkCore.InMemory": "8.0.4",
+            "Microsoft.EntityFrameworkCore.Sqlite": "8.0.4",
+            "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4",
+            "Microsoft.NET.Test.Sdk": "17.9.0",
+            "Moq": "4.18.4",
+            "Serilog": "3.1.1",
+            "Serilog.Extensions.Logging": "8.0.0",
+            "Serilog.Sinks.Console": "5.0.1",
+            "SimpleExec": "12.0.0",
+            "Swashbuckle.AspNetCore": "6.5.0",
+            "xunit": "2.4.2",
+            "xunit.runner.visualstudio": "2.5.7"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

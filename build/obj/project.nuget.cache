@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5atmkRYeT/U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ignas\\Desktop\\Testavimas\\build\\build.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ignas\\.nuget\\packages\\bullseye\\5.0.0\\bullseye.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ignas\\.nuget\\packages\\glob\\1.1.9\\glob.1.1.9.nupkg.sha512",
+    "C:\\Users\\Ignas\\.nuget\\packages\\simpleexec\\12.0.0\\simpleexec.12.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

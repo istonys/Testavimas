@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Conduit",
+    "\\src\\Conduit\\Features",
+    "\\src\\Conduit\\Features\\Followers",
+    "\\tests"
+  ],
+  "SelectedNode": "\\tests\\Tests.csproj",
+  "PreviewInSolutionExplorer": false
+}
